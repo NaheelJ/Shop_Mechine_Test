@@ -67,7 +67,6 @@ dependencies:
     provider: ^6.0.0
     dio: ^4.0.0
     shared_preferences: ^2.0.0
-    get_it: ^7.0.0
 ```
 
 ## 🔗 API Integration
