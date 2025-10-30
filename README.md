@@ -52,12 +52,11 @@ lib/
 
 | Area                | Technology        |
 |---------------------|-------------------|
-| Framework           | Flutter           |
 | Architecture        | MVVM              |
 | State Management    | Provider          |
 | Networking          | Dio               |
 | Local Storage       | SharedPreferences  |
-| Dependency Injection | GetIt             |
+| Image Loading & Caching | CachedNetworkImage |             |
 
 ## 📦 Dependencies
 
