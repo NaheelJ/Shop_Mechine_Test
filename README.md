@@ -2,6 +2,22 @@
 
 A modern, fully-functional e-commerce application built with Flutter, following the MVVM architecture and powered by DummyJSON API. This project demonstrates clean architecture, API integration, state management, local persistence, and scalable Flutter app structure.
 
+## 📱 APK Download
+
+A prebuilt release APK for this app is available in your Google Drive folder:  
+https://drive.google.com/drive/folders/1jYBzzZILZp4bzIu_aXBU9Xjj4dJ1iYoQ?usp=sharing
+
+Installation instructions:
+- Download the .apk file to your Android device or to your computer and transfer it to the device.
+- On the device: enable "Install unknown apps" for your browser or file manager, then open the .apk to install.
+- From a computer (ADB): connect device with USB debugging enabled and run:
+- adb install -r /path/to/Shop_Mechine_Test.apk
+- On Windows/Mac: you can also install via an Android file manager after transferring the APK.
+
+Notes:
+- Verify file name and file size before installing. If you want a checksum (SHA256) or a direct one-click download link embedded in the README, upload the APK file here or share the checksum and I will add it.
+- Always ensure you trust the source before installing unsigned APKs.
+
 ## 🚀 Features
 
 | Category          | Features                                           |
