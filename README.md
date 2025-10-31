@@ -68,23 +68,22 @@ lib/
 
 | Area                | Technology        |
 |---------------------|-------------------|
-| Framework           | Flutter           |
 | Architecture        | MVVM              |
 | State Management    | Provider          |
 | Networking          | Dio               |
 | Local Storage       | SharedPreferences  |
-| Dependency Injection | GetIt             |
+| Image Loading & Caching | CachedNetworkImage |             |
 
 ## 📦 Dependencies
 
 ```yaml
 dependencies:
-    flutter:
-        sdk: flutter
-    provider: ^6.0.0
-    dio: ^4.0.0
-    shared_preferences: ^2.0.0
-    get_it: ^7.0.0
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.4.1
+  dio: ^5.9.0
+  provider: ^6.1.5+1
+  shared_preferences: ^2.5.3
 ```
 
 ## 🔗 API Integration
